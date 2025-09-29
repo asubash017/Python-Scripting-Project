@@ -1,0 +1,6 @@
+# Ignore compiled Go games
+/target/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
